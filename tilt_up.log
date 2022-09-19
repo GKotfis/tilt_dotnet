@@ -1,0 +1,84 @@
+Tilt started on http://localhost:10350/
+v0.30.7, built 2022-08-12
+
+Initial Build
+Loading Tiltfile at: /Users/grzegorzkotfis/projects/devsession/tilt_dotnet/Tiltfile
+Successfully loaded Tiltfile (420.542µs)
+        build │ 
+        build │ Initial Build
+        build │ Running cmd: dotnet publish src/tilt_dotnet.csproj
+        build │ MSBuild version 17.3.1+2badb37d1 for .NET
+        build │   Determining projects to restore...
+        build │   All projects are up-to-date for restore.
+        build │   tilt_dotnet -> /Users/grzegorzkotfis/Projects/devsession/tilt_dotnet/src/bin/Debug/net6.0/tilt_dotnet.dll
+        build │   tilt_dotnet -> /Users/grzegorzkotfis/Projects/devsession/tilt_dotnet/src/bin/Debug/net6.0/publish/
+        build │ 
+        build │ 3 Files Changed: [src/bin/Debug/net6.0/publish/web.config src/obj/Debug/net6.0/PublishOutputs.dd1dbb29c1.txt src/obj/staticwebassets.pack.sentinel]
+        build │ Running cmd: dotnet publish src/tilt_dotnet.csproj
+        build │ MSBuild version 17.3.1+2badb37d1 for .NET
+        build │   Determining projects to restore...
+        build │   All projects are up-to-date for restore.
+        build │   tilt_dotnet -> /Users/grzegorzkotfis/Projects/devsession/tilt_dotnet/src/bin/Debug/net6.0/tilt_dotnet.dll
+        build │   tilt_dotnet -> /Users/grzegorzkotfis/Projects/devsession/tilt_dotnet/src/bin/Debug/net6.0/publish/
+        build │ 
+        build │ 3 Files Changed: [src/bin/Debug/net6.0/publish/web.config src/obj/Debug/net6.0/PublishOutputs.dd1dbb29c1.txt src/obj/staticwebassets.pack.sentinel]
+        build │ Running cmd: dotnet publish src/tilt_dotnet.csproj
+        build │ MSBuild version 17.3.1+2badb37d1 for .NET
+        build │   Determining projects to restore...
+        build │   All projects are up-to-date for restore.
+        build │   tilt_dotnet -> /Users/grzegorzkotfis/Projects/devsession/tilt_dotnet/src/bin/Debug/net6.0/tilt_dotnet.dll
+        build │   tilt_dotnet -> /Users/grzegorzkotfis/Projects/devsession/tilt_dotnet/src/bin/Debug/net6.0/publish/
+        build │ 
+        build │ 3 Files Changed: [src/bin/Debug/net6.0/publish/web.config src/obj/Debug/net6.0/PublishOutputs.dd1dbb29c1.txt src/obj/staticwebassets.pack.sentinel]
+        build │ Running cmd: dotnet publish src/tilt_dotnet.csproj
+        build │ MSBuild version 17.3.1+2badb37d1 for .NET
+        build │   Determining projects to restore...
+        build │   All projects are up-to-date for restore.
+        build │   tilt_dotnet -> /Users/grzegorzkotfis/Projects/devsession/tilt_dotnet/src/bin/Debug/net6.0/tilt_dotnet.dll
+        build │   tilt_dotnet -> /Users/grzegorzkotfis/Projects/devsession/tilt_dotnet/src/bin/Debug/net6.0/publish/
+        build │ 
+        build │ 3 Files Changed: [src/bin/Debug/net6.0/publish/web.config src/obj/Debug/net6.0/PublishOutputs.dd1dbb29c1.txt src/obj/staticwebassets.pack.sentinel]
+        build │ Running cmd: dotnet publish src/tilt_dotnet.csproj
+        build │ MSBuild version 17.3.1+2badb37d1 for .NET
+        build │   Determining projects to restore...
+        build │   All projects are up-to-date for restore.
+        build │   tilt_dotnet -> /Users/grzegorzkotfis/Projects/devsession/tilt_dotnet/src/bin/Debug/net6.0/tilt_dotnet.dll
+        build │   tilt_dotnet -> /Users/grzegorzkotfis/Projects/devsession/tilt_dotnet/src/bin/Debug/net6.0/publish/
+        build │ 
+        build │ 3 Files Changed: [src/bin/Debug/net6.0/publish/web.config src/obj/Debug/net6.0/PublishOutputs.dd1dbb29c1.txt src/obj/staticwebassets.pack.sentinel]
+        build │ Running cmd: dotnet publish src/tilt_dotnet.csproj
+        build │ MSBuild version 17.3.1+2badb37d1 for .NET
+        build │   Determining projects to restore...
+        build │   All projects are up-to-date for restore.
+        build │   tilt_dotnet -> /Users/grzegorzkotfis/Projects/devsession/tilt_dotnet/src/bin/Debug/net6.0/tilt_dotnet.dll
+        build │   tilt_dotnet -> /Users/grzegorzkotfis/Projects/devsession/tilt_dotnet/src/bin/Debug/net6.0/publish/
+        build │ 
+        build │ 3 Files Changed: [src/bin/Debug/net6.0/publish/web.config src/obj/Debug/net6.0/PublishOutputs.dd1dbb29c1.txt src/obj/staticwebassets.pack.sentinel]
+        build │ Running cmd: dotnet publish src/tilt_dotnet.csproj
+        build │ MSBuild version 17.3.1+2badb37d1 for .NET
+        build │   Determining projects to restore...
+        build │   All projects are up-to-date for restore.
+        build │   tilt_dotnet -> /Users/grzegorzkotfis/Projects/devsession/tilt_dotnet/src/bin/Debug/net6.0/tilt_dotnet.dll
+        build │   tilt_dotnet -> /Users/grzegorzkotfis/Projects/devsession/tilt_dotnet/src/bin/Debug/net6.0/publish/
+        build │ 
+        build │ 3 Files Changed: [src/bin/Debug/net6.0/publish/web.config src/obj/Debug/net6.0/PublishOutputs.dd1dbb29c1.txt src/obj/staticwebassets.pack.sentinel]
+        build │ Running cmd: dotnet publish src/tilt_dotnet.csproj
+        build │ MSBuild version 17.3.1+2badb37d1 for .NET
+        build │   Determining projects to restore...
+        build │   All projects are up-to-date for restore.
+        build │   tilt_dotnet -> /Users/grzegorzkotfis/Projects/devsession/tilt_dotnet/src/bin/Debug/net6.0/tilt_dotnet.dll
+        build │   tilt_dotnet -> /Users/grzegorzkotfis/Projects/devsession/tilt_dotnet/src/bin/Debug/net6.0/publish/
+        build │ 
+        build │ 3 Files Changed: [src/bin/Debug/net6.0/publish/web.config src/obj/Debug/net6.0/PublishOutputs.dd1dbb29c1.txt src/obj/staticwebassets.pack.sentinel]
+        build │ Running cmd: dotnet publish src/tilt_dotnet.csproj
+        build │ MSBuild version 17.3.1+2badb37d1 for .NET
+        build │   Determining projects to restore...
+        build │   All projects are up-to-date for restore.
+        build │   tilt_dotnet -> /Users/grzegorzkotfis/Projects/devsession/tilt_dotnet/src/bin/Debug/net6.0/tilt_dotnet.dll
+        build │   tilt_dotnet -> /Users/grzegorzkotfis/Projects/devsession/tilt_dotnet/src/bin/Debug/net6.0/publish/
+        build │ 
+        build │ 3 Files Changed: [src/bin/Debug/net6.0/publish/web.config src/obj/Debug/net6.0/PublishOutputs.dd1dbb29c1.txt src/obj/staticwebassets.pack.sentinel]
+        build │ Running cmd: dotnet publish src/tilt_dotnet.csproj
+        build │ MSBuild version 17.3.1+2badb37d1 for .NET
+        build │   Determining projects to restore...
+        build │   All projects are up-to-date for restore.
